@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/instgram-clone/static/css/main.3946e974.css",
-    "main.js": "/instgram-clone/static/js/main.8d2dd59d.js",
-    "static/js/787.a2274fbc.chunk.js": "/instgram-clone/static/js/787.a2274fbc.chunk.js",
-    "index.html": "/instgram-clone/index.html",
-    "main.3946e974.css.map": "/instgram-clone/static/css/main.3946e974.css.map",
-    "main.8d2dd59d.js.map": "/instgram-clone/static/js/main.8d2dd59d.js.map",
-    "787.a2274fbc.chunk.js.map": "/instgram-clone/static/js/787.a2274fbc.chunk.js.map"
+    "main.css": "/Movie-WebSite/static/css/main.3946e974.css",
+    "main.js": "/Movie-WebSite/static/js/main.7166f0e8.js",
+    "static/js/787.a2274fbc.chunk.js": "/Movie-WebSite/static/js/787.a2274fbc.chunk.js",
+    "index.html": "/Movie-WebSite/index.html",
+    "main.3946e974.css.map": "/Movie-WebSite/static/css/main.3946e974.css.map",
+    "main.7166f0e8.js.map": "/Movie-WebSite/static/js/main.7166f0e8.js.map",
+    "787.a2274fbc.chunk.js.map": "/Movie-WebSite/static/js/787.a2274fbc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3946e974.css",
-    "static/js/main.8d2dd59d.js"
+    "static/js/main.7166f0e8.js"
   ]
 }
